@@ -17,4 +17,4 @@ deecamp2019全球AI精英训练营的反欺诈项目——风险罗盘，异常�
 - 模型优化，探索xgboost、GBDT等
 - 项目展示，海报、ppt、demo等
 - 项目结束，持续时间2-3周
-详情见当前目录下的项目ppt.pdf
+详情见当前目录下的ppt:roadshow.pdf
