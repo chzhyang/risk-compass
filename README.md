@@ -1,5 +1,5 @@
-# Risk-Compass
-an application of anti-fraud : detecting the fraudulent user activity (deecamp2019人工智能训练营的反欺诈项目——风险罗盘，异常社区检测)
+# Risk-Compass(风险罗盘)
+deecamp2019全球AI精英训练营的反欺诈项目——风险罗盘，异常社区检测
 ## 项目数据
 某大型社交网站某个月的所有用户活动数据，标签数据占比极少
 ## 项目目标
